@@ -1,0 +1,17 @@
+﻿Build started 4/17/2019 3:35:16 PM.
+     1>Project "C:\Users\Hp\Desktop\final project\PROJECT3\PROJECT3\PROJECT3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PROJECT3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         PROJECT3.vcxproj -> C:\Users\Hp\Desktop\final project\PROJECT3\Debug\PROJECT3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PROJECT3.unsuccessfulbuild".
+         Touching "Debug\PROJECT3.lastbuildstate".
+     1>Done Building Project "C:\Users\Hp\Desktop\final project\PROJECT3\PROJECT3\PROJECT3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
